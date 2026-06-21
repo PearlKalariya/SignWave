@@ -1,3 +1,6 @@
+# Training data (large dataset — keep local only)
+asl_alphabet_train/
+
 # Dependencies
 node_modules/
 **/node_modules/
