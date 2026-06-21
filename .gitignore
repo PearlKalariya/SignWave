@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+
+# Next.js
+.next/
+out/
+build/
+
+# Misc
+.DS_Store
+*.log
+.env.local
+.env.*.local
+
+# Model files (large)
+*.h5
+*.pkl
+*.model
