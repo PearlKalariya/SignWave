@@ -316,3 +316,140 @@
 2026-06-19 15:16:14.862 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
 2026-06-19 15:16:15.592 | ERROR    | app.api.websocket.speech:speech_ws:42 - Speech WS error: Cannot call "receive" once a disconnect message has been received.
 2026-06-19 15:16:15.621 | INFO     | app.api.websocket.recognition:recognition_ws:34 - Recognition WS disconnected
+2026-06-30 14:24:53.257 | INFO     | app.core.database:connect_db:22 - MongoDB connected: signwave_meeting
+2026-06-30 14:37:35.593 | INFO     | app.services.room_manager:connect:20 - Socket connected: vefpm5oJP9ZZumVsAAAB
+2026-06-30 14:37:35.602 | INFO     | app.services.room_manager:join_room:49 - Guest joined room X03RQ2
+2026-06-30 14:37:45.615 | INFO     | app.services.room_manager:connect:20 - Socket connected: vFL6M-V0Af2CR8SrAAAD
+2026-06-30 14:37:45.616 | INFO     | app.services.room_manager:join_room:49 - Guest joined room X03RQ2
+2026-06-30 14:37:49.759 | INFO     | app.services.hand_tracker:_init:36 - HandLandmarker (Tasks API) ready
+2026-06-30 14:37:52.648 | INFO     | app.services.gesture_classifier:_load:28 - Gesture model loaded: gesture_model.joblib
+2026-06-30 14:37:52.648 | INFO     | app.api.websocket.recognition:recognition_ws:13 - Recognition WS connected
+2026-06-30 14:39:19.692 | INFO     | app.api.websocket.recognition:recognition_ws:34 - Recognition WS disconnected
+2026-06-30 14:39:21.689 | INFO     | app.api.websocket.speech:speech_ws:15 - Speech WS connected
+2026-06-30 14:39:25.700 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:39:29.378 | INFO     | app.services.hand_tracker:_init:36 - HandLandmarker (Tasks API) ready
+2026-06-30 14:39:29.394 | INFO     | app.services.gesture_classifier:_load:28 - Gesture model loaded: gesture_model.joblib
+2026-06-30 14:39:29.394 | INFO     | app.api.websocket.recognition:recognition_ws:13 - Recognition WS connected
+2026-06-30 14:39:29.896 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:39:34.099 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:39:38.301 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:39:42.076 | ERROR    | app.api.websocket.speech:speech_ws:42 - Speech WS error: Cannot call "receive" once a disconnect message has been received.
+2026-06-30 14:39:43.075 | INFO     | app.api.websocket.speech:speech_ws:15 - Speech WS connected
+2026-06-30 14:39:47.083 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:39:51.094 | INFO     | app.api.websocket.recognition:recognition_ws:34 - Recognition WS disconnected
+2026-06-30 14:39:51.602 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:39:55.484 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:00.270 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:04.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:09.276 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:13.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:17.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:21.276 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:25.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:30.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:34.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:38.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:42.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:46.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:51.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:55.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:40:59.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:03.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:07.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:11.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:16.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:20.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:24.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:28.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:33.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:37.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:41.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:45.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:49.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:53.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:41:58.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:02.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:06.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:10.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:15.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:19.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:23.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:27.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:31.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:36.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:40.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:44.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:48.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:52.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:42:56.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:01.271 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:05.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:09.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:13.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:18.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:22.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:26.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:30.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:34.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:38.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:43.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:47.271 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:51.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:43:55.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:00.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:04.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:08.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:12.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:16.271 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:21.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:25.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:29.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:33.271 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:37.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:41.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:46.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:50.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:54.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:44:58.270 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:03.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:07.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:11.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:15.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:19.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:23.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:28.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:32.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:36.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:40.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:45.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:49.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:53.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:45:57.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:01.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:06.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:10.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:14.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:18.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:22.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:26.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:31.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:35.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:39.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:43.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:48.273 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:52.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:46:56.272 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:47:00.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:47:04.274 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:47:08.275 | ERROR    | app.services.whisper_service:transcribe_bytes:29 - Whisper error: No module named 'whisper'
+2026-06-30 14:47:16.445 | INFO     | app.services.whisper_service:_ensure_loaded:18 - Loading Whisper model: base
+2026-06-30 14:48:37.790 | INFO     | app.services.whisper_service:_ensure_loaded:20 - Whisper ready
+2026-06-30 14:49:32.488 | ERROR    | app.api.websocket.speech:speech_ws:42 - Speech WS error: Cannot call "receive" once a disconnect message has been received.
+2026-06-30 14:49:32.490 | INFO     | app.services.room_manager:disconnect:33 - Guest left room X03RQ2
+2026-06-30 14:49:32.490 | INFO     | app.services.room_manager:disconnect:33 - Guest left room X03RQ2
+2026-06-30 14:49:32.592 | INFO     | app.core.database:disconnect_db:29 - MongoDB disconnected
+2026-06-30 14:49:35.919 | INFO     | app.core.database:connect_db:22 - MongoDB connected: signwave_meeting
+2026-06-30 14:49:40.102 | INFO     | app.services.room_manager:connect:20 - Socket connected: Qhm-E_VeCEqzzRLnAAAB
+2026-06-30 14:49:40.272 | INFO     | app.services.room_manager:connect:20 - Socket connected: WQwRADFKmB35vGEZAAAD
+2026-06-30 14:50:13.747 | INFO     | app.services.room_manager:connect:20 - Socket connected: ocBiSFLmmPRHiG-OAAAF
+2026-06-30 14:50:13.755 | INFO     | app.services.room_manager:join_room:49 - Guest joined room X03RQ2
